@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="CPU Scheduling.vcxproj" />
+  <Project Path="CPU Scheduling.vcxproj" Id="44c00f53-1042-42d6-947e-0f6a590581b1" />
 </Solution>
